@@ -42,19 +42,21 @@ Installation
 
 Clone the repository:
 
+```bash
 git clone https://github.com/srv328/memory-card-game.git
 cd memory-card-game
-
+```
 Install Pygame:
-
+```bash
 pip install pygame
-
+```
 Usage
 -----
 
 1.  Run the game by executing `main.py`.
+```python
 python main.py
-
+```
 2.  Follow on-screen instructions to navigate through the menu and start the game.
 
 Gameplay
